@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: white;
+}
+
+#content {
+  max-width: 800px;
+  padding-top: 2em;
+}
+
+.btn {
+  width: 250px;
+}
+
+.message-item {
+  padding: 5px;
+  background-color: #dbd3c5;
+  border-radius: 5px;
+  margin: 2px 0;
+}
+
+#chat-wrapper {
+  padding-top: 10px;
+}
+
+#chat {
+  margin-top: 20px;
+  height: 400px;
+  overflow: auto;
+}
+
+
+button .submit {
+  background-color: #2196f3;
+  text-align: center;
+  border-radius: 5px;
+}
